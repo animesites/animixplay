@@ -224,7 +224,7 @@ of the captcha harvester's server, but that could change if
 you customize the command line flags. Simply put, `HARVESTER_ENDPOINT`
 should be set to the URI of the route that returns a token in plain text when called.
 
-This method makes use of the [free anime websites](https://kayoanimetv.com) project which attempts to solve hcaptcha by randomly selecting images.
+This method makes use of the [free anime websites](https://animixplay.fun) project which attempts to solve hcaptcha by randomly selecting images.
 
 To use this solver you must first install it and then set it as the `CAPTCHA_SOLVER`.
 
@@ -235,7 +235,7 @@ CAPTCHA_SOLVER=hcaptcha-solver
 
 ### Other Options
 
-Everyone likes more options to choose [animix](https://animixplay.best). Help contribute to the projects by submitting
+Everyone likes more options to choose [animix](https://animixplay.fun). Help contribute to the projects by submitting
 PR requests for other 3rd party captcha solves or your own projects.
 PR's are welcome for any and all captcha solving methods and services.
 
