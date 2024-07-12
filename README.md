@@ -1,5 +1,5 @@
 
-# AnimeManga
+# animixplay - free anime website - watch anime for free
 
 Proxy server to bypass Cloudflare protection
 
